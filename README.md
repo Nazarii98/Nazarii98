@@ -4,9 +4,6 @@
 I build and ship products end-to-end — from NestJS APIs and PostgreSQL schemas to React web apps and React Native apps on the App Store & Google Play.
 
 - 🏢 Full Stack Engineer at **Kevych Solutions**
-- 🚀 Technical owner of a creator monetization platform with **10k+ daily active users**
-- 💳 Stripe subscriptions, payouts & internal wallet systems in production
-- 📊 Analytics pipelines with BigQuery & Amplitude
 
 ---
 
